@@ -55,3 +55,19 @@ I completed basic CSS on freeCodeCamp.org.
 
 **Thoughts:** 
 2020 started with style. 
+
+### Day 3: January 2, 2020 
+
+**Today's Progress**: 
+I completed Applied Visual Design on freeCodeCamp.org.
+
+**Thoughts:** 
+Today I feel tired but I keep going.
+
+### Day 4: January 3, 2020 
+
+**Today's Progress**: 
+I completed Applied Accessibility on freeCodeCamp.org.
+
+**Thoughts:** 
+It is really interesting and encouraged me to delve into the topic and watch some related videos on YouTube.
