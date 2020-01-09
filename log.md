@@ -71,3 +71,35 @@ I completed Applied Accessibility on freeCodeCamp.org.
 
 **Thoughts:** 
 It is really interesting and encouraged me to delve into the topic and watch some related videos on YouTube.
+
+### Day 5 & 6: January 4 & 5, 2020 
+
+**Today's Progress**: 
+I was working on my personal project (React.js).
+
+**Thoughts:** 
+I need to continue but I don't have time...
+
+### Day 7: January 6, 2020 
+
+**Today's Progress**: 
+I completed Responsive Web Design Principles and CSS Flexbox on freeCodeCamp.org.
+
+**Thoughts:** 
+I really like flexbox. 
+
+### Day 8: January 7, 2020 
+
+**Today's Progress**: 
+I completed CSS Grid and 50% of a tribute page and 50% of basic JS on freeCodeCamp.org. A bit of everything.
+
+**Thoughts:** 
+A long day is over. I was back to work after holiday break but I was way more productive.
+
+### Day 9 & 10: January 8 & 9, 2020 
+
+**Today's Progress**: 
+I completed 25% of basic JS on freeCodeCamp.org.
+
+**Thoughts:** 
+I don't have time but I keep goin'. 
