@@ -102,4 +102,12 @@ A long day is over. I was back to work after holiday break but I was way more pr
 I completed 25% of basic JS on freeCodeCamp.org.
 
 **Thoughts:** 
-I don't have time but I keep goin'. 
+I don't have time but I keep goin'.
+
+### Day 11 - 17: January 10 - 16, 2020 
+
+**Today's Progress**: 
+I completed last 25% of basic JS on freeCodeCamp.org and a few chapters of "Eloquent JavaScript".
+
+**Thoughts:** 
+Same as last time - I don't have time but I keep goin'. I hope I will have more time and power soon.
