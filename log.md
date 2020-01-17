@@ -111,3 +111,11 @@ I completed last 25% of basic JS on freeCodeCamp.org and a few chapters of "Eloq
 
 **Thoughts:** 
 Same as last time - I don't have time but I keep goin'. I hope I will have more time and power soon.
+
+### Day 18: January 17, 2020 
+
+**Today's Progress**: 
+Today I completed 60% of ES6 on freeCodeCamp.org.
+
+**Thoughts:** 
+Let the weekend begin!
